@@ -1,1 +1,1 @@
-third file
+This is the third file
